@@ -38,6 +38,8 @@ public class GameMergeNinjaStarBurningMode {
                 tSum = time + i*35;
             } else if (lv < 700) {
                 tSum = time + i*36;
+            } else if (lv < 800) {
+                tSum = time + i*37;
             }
 
         }
